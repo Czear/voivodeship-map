@@ -1,3 +1,8 @@
+/* IE 11 */
+import 'core-js';
+import 'react-app-polyfill/ie11';
+import 'react-app-polyfill/stable';
+
 /* React */
 import React from 'react'
 import ReactDOM from 'react-dom'
@@ -42,7 +47,7 @@ class App extends React.Component<IProps, IState> {
     }
 
     public render() {
-        return ( <main className="container main-container text-center">
+        return ( <div className="container main-container text-center">
             <h1 className="main-heading">Our stores</h1>
 
             <section className="row informations align-items-center flex-column-reverse flex-lg-row">
@@ -51,7 +56,7 @@ class App extends React.Component<IProps, IState> {
             </section>
 
             { this.state.selectedVoivodeship && <Slider className="row justify-content-center align-items-center" activeVoivodeship={ this.state.selectedVoivodeship }/> }
-        </main> )
+        </div> )
     }
 }
 
