@@ -10,7 +10,7 @@
   }
 
   @media( min-width: $mobileBreakpoint ) {
-    max-height: calc(100% - 2.3rem); /* Decrease by height of heading */
+    max-height: 92.5%;
 
     &__container {
       margin-top: 0;

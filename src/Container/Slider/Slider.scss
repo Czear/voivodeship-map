@@ -1,15 +1,12 @@
 @import 'src/Shared/var';
 
 .slider {
-  display: flex;
-  overflow: hidden;
-
   &__container {
     margin-top: 32px;
     padding: 48px ( $sliderArrowSize + ( 2 * $sliderArrowPadding ) );
     position: relative;
     height: 300px;
-    border-radius: 20px;
+    border-radius: $sectionBorderRadius;
     background-color: #fff;
 
     @media( min-width: $mobileBreakpoint ) {
