@@ -110,7 +110,7 @@ declare module 'MapData' {
 
         },
         'paths': (React.SVGProps<SVGPathElement> & {
-            'data-key': IVoivodeshipName
+            'name': IVoivodeshipName
         })[]
     }
 }
