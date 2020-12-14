@@ -1,0 +1,23 @@
+@import 'src/Shared/var';
+
+.map {
+  &__container {
+    height: 100%;
+  }
+
+  g {
+    fill: $mapTileBaseColor;
+
+    path {
+      cursor: pointer;
+
+      &:hover {
+        fill: adjust-color( $mapTileBaseColor, $hue: 11 );
+      }
+
+      &.active {
+        fill: adjust-color( $mapTileBaseColor, $hue: -10, $saturation: -12 )
+      }
+    }
+  }
+}

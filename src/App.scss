@@ -1,0 +1,21 @@
+@import "Shared/var";
+@import "Shared/general";
+
+.informations {
+  height: unset;
+  background-color: $mapInfoBgColor;
+  border-radius: $sectionBorderRadius;
+  padding: 32px 0;
+
+  @media(min-width: $mobileBreakpoint) {
+    height: 580px;
+  }
+}
+
+.main-heading {
+  margin-bottom: 32px;
+}
+
+.main-container {
+  padding-top: 32px;
+}

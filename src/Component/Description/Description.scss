@@ -1,0 +1,20 @@
+@import "src/Shared/var";
+
+.description {
+  overflow-y: auto;
+  max-height: 315px;
+
+  &__container {
+    height: 100%;
+    margin-top: 28px;
+  }
+
+  @media( min-width: $mobileBreakpoint ) {
+    max-height: 92.5%;
+
+    &__container {
+      margin-top: 0;
+    }
+  }
+}
+

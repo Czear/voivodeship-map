@@ -1,0 +1,271 @@
+{
+  "west-pomeranian": {
+    "photos": [
+      "maly-geniusz-uklad-sloneczny.jpg",
+      "gra-towarzyska-alias-kobiety-vs-mezczyzni.jpg",
+      "skarpeta-z-kalendarzem-adwentowym.jpg"
+    ],
+    "localizations": [
+      "SZCZECIN GALAXY",
+      "SZCZECIN KASKADA",
+      "SZCZECIN PARK (SP)",
+      "SZCZECIN STER (SP)",
+      "SZCZECIN TURZYN II (SP)",
+      "SZCZECINEK EX (SP)"
+    ]
+  },
+  "pomeranian": {
+    "photos": [
+      "plakat-hog-studio-nowy-jork-mapa.jpg",
+      "obraz-na-plotnie-canvas-feeby-cthulhu.jpg",
+      "uno-gra-karciana.jpg"
+    ],
+    "localizations": [
+      "Gdańsk Alfa (SP)",
+      "Gdańsk Forum (SP)",
+      "Gdańsk Galeria Bałtycka",
+      "Gdańsk Manhattan (SP)",
+      "Gdańsk Matarnia (SP)",
+      "Gdańsk Morena (SP)",
+      "Gdańsk Nieborowska Papiernik by ",
+      "Gdańsk Przymorze (SP)",
+      "Gdańsk Rakoczego Papiernik by em",
+      "Gdańsk Szczęśliwa (SP)",
+      "Pruszcz Gdański Park Handlowy (S",
+      "Starogard Gdański Neptun (SP)"
+    ]
+  },
+  "warmian-masurian": {
+    "photos": [
+      "rebel-gra-imprezowa-tagi.jpg",
+      "scrabble-gra-logiczna.jpg",
+      "obraz-na-plotnie-canvas-feeby-cthulhu.jpg"
+    ],
+    "localizations": [
+      "Olsztyn Aura (SP)",
+      "Olsztyn Dekada (SP)",
+      "Olsztyn Galeria Warmińska (SP)"
+    ]
+  },
+  "podlaskie": {
+    "photos": [
+      "maly-geniusz-uklad-sloneczny.jpg",
+      "obraz-na-plotnie-canvas-feeby-cthulhu.jpg",
+      "scrabble-gra-logiczna.jpg"
+    ],
+    "localizations": [
+      "Białystok Alfa (SP)",
+      "Białystok Galeria Biała (SP)",
+      "Białystok Hetman (SP)",
+      "Białystok Jurowiecka (SP)"
+    ]
+  },
+  "lubusz": {
+    "photos": [
+      "scrabble-gra-logiczna.jpg",
+      "skarpeta-z-kalendarzem-adwentowym.jpg",
+      "obraz-na-plotnie-canvas-feeby-cthulhu.jpg"
+    ],
+    "localizations": [
+      "Zielona Góra Energetyków (SP)",
+      "Zielona Góra Focus Park"
+    ]
+  },
+  "greater-poland": {
+    "photos": [
+      "far-cry.jpg",
+      "skarpeta-z-kalendarzem-adwentowym.jpg",
+      "uno-gra-karciana.jpg"
+    ],
+    "localizations": [
+      "Poznań Avenida (SP) (City Center",
+      "Poznań Galeria Malta (SP)",
+      "Poznań King Cross (SP)",
+      "Poznań King Cross Papiernik by e",
+      "Poznań Komorniki (SP)",
+      "Poznań M1 (SP)",
+      "Poznań Panorama (SP)",
+      "Poznań Plaza",
+      "Poznań Posnania",
+      "Poznań Ratajczaka",
+      "Poznań Stary Browar",
+      "Skórzewo Galeria EX (SP)",
+      "Poznań Suchy Las Papiernik by em",
+      "Swarzędz II ETC (SP)"
+    ]
+  },
+  "kuyavian-pomeranian": {
+    "photos": [
+      "rebel-gra-imprezowa-tagi.jpg",
+      "scrabble-gra-logiczna.jpg",
+      "xiaomi-mi-band-5-czarny.jpg"
+    ],
+    "localizations": [
+      "Toruń Copernicus (SP)",
+      "Toruń Plaza (SP)",
+      "Toruń Starówka (SP)"
+    ]
+  },
+  "masovian": {
+    "photos": [
+      "skarpeta-z-kalendarzem-adwentowym.jpg",
+      "lego-harry-potter.jpg",
+      "obraz-na-plotnie-canvas-feeby-cthulhu.jpg"
+    ],
+    "localizations": [
+      "Warszawa Annopol (SP)",
+      "Warszawa Arkadia",
+      "Warszawa Bielany (SP)",
+      "Warszawa Blue City II (SP)",
+      "Warszawa Galeria Młociny (SP)",
+      "Warszawa Galeria Mokotów",
+      "Warszawa Galeria Północna (SP)",
+      "Warszawa Galeria Renova (SP)",
+      "Warszawa Galeria Wileńska (SP)",
+      "Warszawa Gocław (SP)",
+      "Warszawa Gocław Papiernik by emp",
+      "Warszawa Jana Kazimierza (SP)",
+      "Warszawa KEN EX (SP)",
+      "Warszawa Klimczaka Papiernik by ",
+      "Warszawa Łomianki (SP)",
+      "Warszawa Nowy Świat",
+      "Warszawa Odkryta Papiernik by em",
+      "Warszawa Pełczyńskiego Papiernik",
+      "Warszawa Plac Unii (SP)",
+      "Warszawa Poborzańska Papiernik b",
+      "Warszawa Promenada",
+      "Warszawa Reduta (SP)",
+      "Warszawa Rydygiera Papiernik by ",
+      "Warszawa Sadyba (SP)",
+      "Warszawa Skorosze (SP)",
+      "Warszawa Teatr Wielki",
+      "Warszawa Ursus Factory (SP)",
+      "Warszawa Ursynów (SP)",
+      "Warszawa Wola Park",
+      "Warszawa Złote Tarasy",
+      "Warszawa Żoliborz (SP)",
+      "Warszawa Janki (SP)",
+      "Warszawa Piaseczno",
+      "Warszawa Piaseczno Tukanów Papie",
+      "Warszawa Raszyn (SP)"
+    ]
+  },
+  "lower-silesian": {
+    "photos": [
+      "skarpeta-z-kalendarzem-adwentowym.jpg",
+      "media-tech-opaska-sportowa-active.jpg",
+      "uno-gra-karciana.jpg"
+    ],
+    "localizations": [
+      "Wrocław Bielany (SP)",
+      "Wrocław Bielany Francuska (SP)",
+      "Wrocław Borek (SP)",
+      "Wrocław Chorwacka Papiernik by e",
+      "Wrocław Factoria Park (SP)",
+      "Wrocław Galeria Dominikańska (SP",
+      "Wrocław Magnolia Park",
+      "Wrocław N-Park Maślicka (SP)",
+      "Wrocław Pasaż Grunwaldzki",
+      "Wrocław Renoma",
+      "Wrocław Wroclavia",
+      "Inowrocław Galeria (SP)",
+      "Opole Karolinka (SP)",
+      "Zielona Góra Focus Park"
+    ]
+  },
+  "lodz": {
+    "photos": [
+      "pol-and-rock-festival.jpg",
+      "plakat-hog-studio-nowy-jork-mapa.jpg",
+      "lego-harry-potter.jpg"
+    ],
+    "localizations": [
+      "Łódź Galeria",
+      "Łódź Manufaktura",
+      "Łódź Pasaż Łódzki (SP)",
+      "Łódź Port",
+      "Łódź Traktorowa Park Handlowy (S"
+    ]
+  },
+  "lublin": {
+    "photos": [
+      "slonce-w-mroku.jpg",
+      "pol-and-rock-festival.jpg",
+      "scrabble-gra-logiczna.jpg"
+    ],
+    "localizations": [
+      "Lublin Felicity (SP)",
+      "Lublin Olimp (SP)",
+      "Lublin Plaza",
+      "Lublin Tarasy Zamkowe (SP)"
+    ]
+  },
+  "opole": {
+    "photos": [
+      "maly-geniusz-uklad-sloneczny.jpg",
+      "skarpeta-z-kalendarzem-adwentowym.jpg",
+      "rebel-gra-imprezowa-tagi.jpg"
+    ],
+    "localizations": [
+      "Opole Arkadia (SP)",
+      "Opole Karolinka (SP)",
+      "Opole Turawa Park (SP)"
+    ]
+  },
+  "silesian": {
+    "photos": [
+      "skarpeta-z-kalendarzem-adwentowym.jpg",
+      "gra-towarzyska-alias-kobiety-vs-mezczyzni.jpg",
+      "rebel-gra-imprezowa-tagi.jpg"
+    ],
+    "localizations": [
+      "Katowice Galeria Katowicka (SP)",
+      "Katowice Libero (SP)",
+      "Katowice Silesia",
+      "Katowice Supersam (SP)",
+      "Katowice Trzy Stawy (SP)"
+    ]
+  },
+  "holy-cross": {
+    "photos": [
+      "plakat-hog-studio-nowy-jork-mapa.jpg",
+      "skarpeta-z-kalendarzem-adwentowym.jpg",
+      "far-cry.jpg"
+    ],
+    "localizations": [
+      "Kielce Echo (SP)",
+      "Kielce Korona (SP)"
+    ]
+  },
+  "lesser-poland": {
+    "photos": [
+      "plakat-hog-studio-nowy-jork-mapa.jpg",
+      "scrabble-gra-logiczna.jpg",
+      "uno-gra-karciana.jpg"
+    ],
+    "localizations": [
+      "Kraków Avia Papiernik by empik",
+      "Kraków Bonarka",
+      "Kraków Bronowice (SP)",
+      "Kraków Dekada (SP)",
+      "Kraków Galeria Krakowska",
+      "Kraków Kazimierz (SP)",
+      "Kraków M1 (SP)",
+      "Kraków Rynek",
+      "Kraków Zakopianka (SP)",
+      "Kraków Factory (SP)"
+    ]
+  },
+  "subcarpathian": {
+    "photos": [
+      "scrabble-gra-logiczna.jpg",
+      "slonce-w-mroku.jpg",
+      "obraz-na-plotnie-canvas-feeby-cthulhu.jpg"
+    ],
+    "localizations": [
+      "Rzeszów Galeria (SP)",
+      "Rzeszów Graffica (SP)",
+      "Rzeszów Millenium Hall (SP)"
+    ]
+  }
+}
