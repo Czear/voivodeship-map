@@ -1,0 +1,46 @@
+@import 'src/Shared/var';
+
+.slider {
+  display: flex;
+  overflow: hidden;
+
+  &__container {
+    margin-top: 32px;
+    padding: 48px ( $sliderArrowSize + ( 2 * $sliderArrowPadding ) );
+    position: relative;
+    height: 300px;
+    border-radius: 20px;
+    background-color: #fff;
+
+    @media( min-width: $mobileBreakpoint ) {
+      height: 450px;
+    }
+  }
+
+  &__photo {
+    max-width: 100%;
+    max-height: 100%;
+  }
+}
+
+.arrow {
+  $directions: "left", "right";
+
+  position: absolute;
+  height: $sliderArrowSize;
+  width: $sliderArrowSize;
+  background-repeat: no-repeat;
+  background-position: center;
+  top: calc( 50% - #{ $sliderArrowSize / 2 } );
+  cursor: pointer;
+
+  @each $direction in $directions {
+    &--#{ $direction } {
+      @if $direction == "left" {
+        left: $sliderArrowPadding;
+      } @else {
+        right: $sliderArrowPadding;
+      }
+    }
+  }
+}
